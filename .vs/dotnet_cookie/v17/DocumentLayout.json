@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|c:\\users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|solutionrelative:dotnet_cookie\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|c:\\users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|solutionrelative:dotnet_cookie\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|c:\\users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|solutionrelative:dotnet_cookie\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|c:\\users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|solutionrelative:dotnet_cookie\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|c:\\users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|solutionrelative:dotnet_cookie\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|c:\\users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|solutionrelative:dotnet_cookie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|c:\\users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|solutionrelative:dotnet_cookie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|c:\\users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|solutionrelative:dotnet_cookie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|c:\\users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|solutionrelative:dotnet_cookie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|c:\\users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9400A7-AB83-481F-95DE-8F32673F41E5}|dotnet_cookie\\dotnet_cookie.csproj|solutionrelative:dotnet_cookie\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Models\\student.cs",
+              "RelativeDocumentMoniker": "dotnet_cookie\\Models\\student.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Models\\student.cs",
+              "RelativeToolTip": "dotnet_cookie\\Models\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:54:01.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "dotnet_cookie\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "dotnet_cookie\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T13:28:31.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "dotnet_cookie\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "dotnet_cookie\\Models\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:54:41.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "dotnet_cookie\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "dotnet_cookie\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T12:55:39.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "dotnet_cookie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "dotnet_cookie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T13:28:36.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "dotnet_cookie\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "dotnet_cookie\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:50:00.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\appsettings.json",
+              "RelativeDocumentMoniker": "dotnet_cookie\\appsettings.json",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\appsettings.json",
+              "RelativeToolTip": "dotnet_cookie\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T13:01:47.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Program.cs",
+              "RelativeDocumentMoniker": "dotnet_cookie\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Program.cs",
+              "RelativeToolTip": "dotnet_cookie\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:47:32.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "dotnet_cookie\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "dotnet_cookie\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T12:57:21.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "dotnet_cookie\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\dotnet_cookie\\dotnet_cookie\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "dotnet_cookie\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:28:12.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
