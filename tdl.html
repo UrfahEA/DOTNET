@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Job Tracker</title>
+</head>
+
+<body>
+	<div class="container">
+		<div class="header">
+			<h3>🎯Job Tracker</h3>
+			<p>Manage Your Career Journey With Style</p>
+		</div>
+
+		<div class="form-section">
+			<form class="job-form">
+				<div class="form-group">
+					<label for="jobTitle">Job Title</label>
+					<input type="text" class="job-title" required>
+				</div>
+				<div class="form-group">
+					<label for="Company">Company</label>
+					<input type="text" class="job-company" required>
+				</div>
+				<div class="form-group">
+					<label for="job-location">Location</label>
+					<input type="text" class="job-location" required>
+				</div>
+				<div class="form-group">
+					<label for="salary">Salary Range</label>
+					<input type="text" class="job-salary" required>
+				</div>
+				<label for="status">Status</label>
+				<select name="status" id="stat">
+					<option value="Applied">Applied</option>
+					<option value="Interviews">Interviews</option>
+					<option value="Offers">Offers</option>
+					<option value="Rejected">Rejected</option>
+				</select>
+				<div class="apply">
+					<label for="AppliedDate">Applied Date</label>
+					<input type="date" class="apllied-date">
+				</div>
+
+				<div class="form-group" style="grid-column:1/-1;">
+					<label for="notes">Notes</label>
+					<textarea name="notes" id="job-notes"
+						placeholder="Add notes about the job application..."></textarea>
+				</div>
+				<div class="form-group" style="grid-column: 1/-1;">
+					<button type="submit" class="btn btn-primary" id="submitBtn">
+						<span id="submitText">Add Job Application</span>
+					</button>
+				</div>
+			</form>
+		</div>
+		<!-- ---------------------------Job Section--------------------- -->
+
+		<div class="job-section">
+			<div class="stats">
+				<div class="stat-card Applied">
+					<div class="stat-number">0</div>
+					<div class="stat-label">Applied</div>
+				</div>
+				<div class="stat-card Interview">
+					<div class="stat-number">0</div>
+					<div class="stat-label">Interviews</div>
+				</div>
+				<div class="stat-card Offer">
+					<div class="stat-number">0</div>
+					<div class="stat-label">Offers</div>
+				</div>
+				<div class="stat-card Rejected">
+					<div class="stat-number">0</div>
+					<div class="stat-label">Rejected</div>
+				</div>
+			</div>
+
+			<div class="filters">
+				<input type="text" placeholder="Search jobs, companies or locations...">
+				<select name="filter-status" id="filter-status">
+					<option value="Applied">Applied</option>
+					<option value="Interviews">Interviews</option>
+					<option value="Offers">Offers</option>
+					<option value="Rejected">Rejected</option>
+				</select>
+				<button id="filterBtn">Clear All</button>
+			</div>
+			<div class="job-grid">
+				<div class="empty-state">
+					<h3>No Job Applications Yet</h3>
+					<p>Start tracking your job applications by adding your first one above!</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+</body>
+
+</html>
